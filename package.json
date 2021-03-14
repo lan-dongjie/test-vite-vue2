@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.1",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.5",
+    "less": "^4.1.1",
+    "vite": "^2.0.5",
+    "vite-plugin-vue2": "^1.4.0"
+  }
+}
